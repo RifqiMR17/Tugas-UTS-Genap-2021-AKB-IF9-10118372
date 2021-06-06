@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.akb.tugas_uts_genap_2021_akb_if9_10118372">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logodiary2"
+        android:label="Diary_10118372"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.TugasUTSGenap2021AKBIF910118372">
+        <activity android:name=".MainActivity"></activity>
+        <activity android:name=".TambahActivity"></activity>
+        <activity android:name=".SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

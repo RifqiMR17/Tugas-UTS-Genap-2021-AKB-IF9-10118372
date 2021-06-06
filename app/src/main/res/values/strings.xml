@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tugas-UTS-Genap-2021-AKB-IF9-10118372</string>
+    <string name="nama">Rifqi Muhammad Rizqullah</string>
+    <string name="nim">10118372</string>
+    <string name="kelas">IF-9</string>
+    <string name="prodi">Teknik Informatika</string>
+    <string name="fakultas">Fakultas Teknik dan Ilmu Komputer</string>
+    <string name="univ">Universitas Komputer  Indonesia</string>
+    <string name="email">rifqimr27@gmail.com</string>
+    <string name="phone">081294428761</string>
+    <string name="really_long_string">str</string>
+    <string name="about">Aplikasi ini dibuat untuk memenuhi tugas UTS Aplikasi Komputasi Bergerak</string>
+</resources>
